@@ -22,7 +22,7 @@ Việc **vận hành thử nghiệm (VHTN) công trình xử lý chất thải s
 
 Theo **Khoản 26, Điều 3, Luật Bảo vệ môi trường 2020**, vận hành thử nghiệm công trình xử lý chất thải là việc vận hành nhằm kiểm tra, đánh giá hiệu quả và sự phù hợp với yêu cầu về bảo vệ môi trường đối với công trình xử lý chất thải của chủ dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung và cụm công nghiệp.
 
-Nghị định 08/2022/NĐ-CP quy định rằng, trừ một số trường hợp, các dự án sau khi được cấp giấy phép môi trường phải tuân thủ quy định về vận hành thử nghiệm công trình xử lý chất thải.
+Nghị định 08/2022/NĐ-CP quy định trừ một số trường hợp, các dự án sau khi được cấp giấy phép môi trường phải tuân thủ quy định về vận hành thử nghiệm công trình xử lý chất thải.
 
 **Điều 46, Luật Bảo vệ môi trường 2020** đề cập việc vận hành thử nghiệm sau khi được cấp giấy phép môi trường đối với các nhóm công trình sau:
 
@@ -38,7 +38,7 @@ Nghị định 08/2022/NĐ-CP quy định rằng, trừ một số trường h�
 
 ## 2. Quy định về thời gian vận hành thử nghiệm sau giấy phép môi trường
 
-Theo quy định, thời gian [vận hành thử nghiệm hệ thống xử lý chất thải](https://moitruonghopnhat.com/van-hanh-thu-nghiem-cong-trinh-xu-ly-chat-thai-2325.html) được quy định tại **Khoản 6, Điều 31, Nghị định 08/2022/NĐ-CP** như sau:
+Thời gian [vận hành thử nghiệm hệ thống xử lý chất thải](https://moitruonghopnhat.com/van-hanh-thu-nghiem-cong-trinh-xu-ly-chat-thai-2325.html) được quy định tại **Khoản 6, Điều 31, Nghị định 08/2022/NĐ-CP** như sau:
 
 ### Trường hợp từ 03 đến 06 tháng
 
